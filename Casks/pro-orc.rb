@@ -1,6 +1,6 @@
 cask "pro-orc" do
-  version "3.3.0"
-  sha256 "8a02a7fd348294ffdd5b95831fb3084d7cf2758811496ca4d8b5e379dac5d55c"
+  version "3.3.1"
+  sha256 "7a10317a923314cf591870b3d7b2883955fa797a90ca0a2ad0d862e4fad2f80b"
 
   url "https://github.com/n3urala1-rob/a1-pro-orc/releases/download/v#{version}/ProOrc-#{version}-macOS.dmg"
   name "Pro Orc"
